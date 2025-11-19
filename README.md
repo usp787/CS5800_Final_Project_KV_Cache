@@ -1,5 +1,7 @@
 # CS5800_Final_Project_KV_Cache
 
+Authors: Jiani He, Jiarui Zha
+
 This repository contains the code and analysis for a project investigating the Key-Value (KV) Cache , a critical optimization in modern Large Language Models (LLMs). This project explores the KV cache not just as a software optimization but as a direct, practical application of a fundamental computer science paradigm: Dynamic Programming (DP).
 
 ---
